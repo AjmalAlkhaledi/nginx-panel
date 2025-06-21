@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -sLo /usr/local/bin/myscript https://raw.githubusercontent.com/ajmalalkhaledi/nginx-panel/main/nginx-panel.sh
+curl -sLo /usr/local/bin/nginx-panel https://raw.githubusercontent.com/ajmalalkhaledi/nginx-panel/main/nginx-panel.sh
 
 chmod +x /usr/local/bin/nginx-panel
 
