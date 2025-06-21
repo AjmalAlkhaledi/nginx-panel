@@ -1,5 +1,5 @@
 
-# Nginx Site Manager
+# Nginx Panel CLI
 
 A lightweight Bash script to manage your Nginx “sites-available” and “sites-enabled” directories.  
 This tool discovers your Nginx configuration path, lets you test & reload Nginx, list sites, and interactively enable or disable virtual hosts—rolling back on errors.
@@ -31,7 +31,7 @@ This tool discovers your Nginx configuration path, lets you test & reload Nginx,
 
 ## Installation
 
-1. **Clone ** this repository:
+1. **Clone** this repository:
 
    ```bash
    curl -s https://raw.githubusercontent.com/ajmalalkhaledi/nginx-panel/main/install.sh | sudo bash
@@ -144,4 +144,5 @@ Please adhere to the existing code style and include tests where applicable.
 ## License
 
 This project is licensed under the **MIT License**.  
+
 
